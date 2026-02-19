@@ -8,6 +8,11 @@
 | **ASSET-04** | GitHub Repository | Software | **High** | Source Code |
 | **ASSET-05** | AWS S3 Backups | Data | **High** | PHI / Backups |
 
+### Asset Criticality Legend
+* **Critical:** Failure causes a total shutdown of the AI service or a breach of PHI (Protected Health Information).
+* **High:** Failure significantly degrades service or affects multiple departments/security backups.
+* **Medium:** Failure affects individual productivity but does not stop the service or risk data privacy.
+* **Low:** Non-essential assets with no impact on security or availability.
 
 # Data Flow: Patient Scan Analysis
 ## Ingestion: Doctor uploads scan to Web Portal (HTTPS/TLS 1.2).
