@@ -6,3 +6,11 @@ Regional AWS Outage	| 5 |	2	| **10**	| Multi-Region Architecture (Failover to a 
 Ransomware Attack	| 4	| 3	| **12**	| Daily Immutable Backups & Mandatory MFA	| **4** |
 DDoS Attack	| 4	| 3	| **12**	|AWS Shield & Web Application Firewall (WAF) | **4** |
 Unauthorized Data Access	| 5	| 2	| **10**	| Encryption at Rest/Transit & Strict IAM Roles	| **2** |
+
+* **Critical (15-25):** Stop everything. These risks need automated "Safety Nets" immediately.
+
+* **High (10-14):** Needs a formal written policy and a human checking it every week.
+
+* **Medium (5-9):** We monitor these monthly to make sure they don't get worse.
+
+* **Low (1-4):** We know they exist, but we accept them for now.
