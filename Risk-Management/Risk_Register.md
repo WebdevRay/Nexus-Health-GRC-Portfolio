@@ -7,6 +7,7 @@ Ransomware Attack	| 4	| 3	| **12**	| Daily Immutable Backups & Mandatory MFA	| *
 DDoS Attack	| 4	| 3	| **12**	|AWS Shield & Web Application Firewall (WAF) | **4** |
 Unauthorized Data Access	| 5	| 2	| **10**	| Encryption at Rest/Transit & Strict IAM Roles	| **2** |
 
+# Risk Register Legend
 * **Critical (15-25):** Stop everything. These risks need automated "Safety Nets" immediately.
 
 * **High (10-14):** Needs a formal written policy and a human checking it every week.
