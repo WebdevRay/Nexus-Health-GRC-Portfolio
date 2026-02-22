@@ -32,3 +32,11 @@ GRC Portfolio for Nexus Health AI: A comprehensive risk management framework foc
 ### 📂 [5. Operations](./Operations/)
 *The "Action" - How we keep the lights on during a crisis.*
 * **[Disaster Recovery Plan](./Operations/Disaster_Recovery_Plan.md)**
+
+*
+* ## 🛠️ Technical Skills & Frameworks
+* **Frameworks:** HIPAA (Healthcare Privacy), NIST Cybersecurity Framework (CSF), ISO 27001.
+* **Risk Management:** Qualitative Risk Assessment (Impact x Likelihood), Business Impact Analysis (BIA).
+* **Governance:** Policy Authoring (AUP, Change Management), Version Control (Git/GitHub).
+* **Compliance:** Third-Party Vendor Risk Assessment, SOC 2 Type II Awareness.
+* **Tools:** GitHub, Google Workspace (Sheets/Docs), Markdown, Basic AWS Cloud Security.
