@@ -3,6 +3,13 @@ GRC Portfolio for Nexus Health AI: A comprehensive risk management framework foc
 # GRC Portfolio: Nexus Health AI
 ## Asset Protection & Risk Management Portfolio
 
+## 📍 Table of Contents
+* [1. Strategy & Context](#-1-strategy--context)
+* [2. Risk Management](#-2-risk-management)
+* [3. Governance](#-3-governance)
+* [4. Compliance & Third-Party Risk](#-4-compliance--third-party-risk)
+* [5. Operations](#-5-operations)
+* 
 ### 📂 [1. Strategy & Context](./Strategy/)
 *The "Why" - Defines business goals, HIPAA requirements, and asset mapping.*
 * **[Organizational Context](./Strategy/Organizational_Context.md)**
