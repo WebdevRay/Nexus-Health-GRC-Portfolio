@@ -6,7 +6,7 @@ GRC Portfolio for Nexus Health AI: A comprehensive risk management framework foc
 ## 📍 Table of Contents
 * [1. Strategy & Context](#-1-strategy--context)
 * [2. Risk Management](#-2-risk-management)
-* [3. Governance](#-3-governance)
+* [3. Governance](#-3-governance-policies)
 * [4. Compliance & Third-Party Risk](#-4-compliance--third-party-risk)
 * [5. Operations](#-5-operations)
 * 
