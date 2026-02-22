@@ -1,6 +1,6 @@
 # Vendor Security Assessment: CloudStorage Pro
 
-**Assessor:** [Your Name]  
+**Assessor:** Ray A. Price  
 **Status:** Under Review  
 **Criticality:** High (Sub-processor of Patient Data)
 
