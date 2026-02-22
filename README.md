@@ -21,3 +21,7 @@ GRC Portfolio for Nexus Health AI: A comprehensive risk management framework foc
 ### 📂 [4. Compliance & Third-Party Risk](./Compliance/)
 *The "Who" - Auditing external partners to ensure they don't break our uptime.*
 * **[Vendor Security Assessment](./Compliance/Vendor_Assessment.md)**
+
+### 📂 [5. Operations](./Operations/)
+*The "Action" - How we keep the lights on during a crisis.*
+* **[Disaster Recovery Plan](./Operations/Disaster_Recovery_Plan.md)**
